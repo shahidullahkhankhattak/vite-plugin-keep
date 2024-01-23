@@ -87,5 +87,3 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions are welcome. Please open an issue or submit a pull request with any improvements or suggestions.
 
 ---
-
-**Note:** This README assumes a standard MIT License and open contribution policy. You should replace these sections with your actual license and contribution guidelines.
