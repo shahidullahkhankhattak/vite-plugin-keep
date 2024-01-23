@@ -1,6 +1,6 @@
 {
     "name": "vite-plugin-keep",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A vite plugin to keep source directories as it is and make it part of build / dist.",
     "main": "dist/vite-plugin-keep.cjs.js",
     "module": "dist/vite-plugin-keep.esm.js",
