@@ -1,5 +1,4 @@
 import fsExtra from 'fs-extra';
-import path from 'path';
 import vitePluginKeep from '../src';
 
 jest.mock('path', () => ({
