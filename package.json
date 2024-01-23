@@ -14,7 +14,7 @@
         "type": "git",
         "url": "git+ssh://git@github.com/shahidullahkhankhattak/vite-plugin-keep.git"
     },
-    "keywords": [],
+    "keywords": ["vite", "plugin", "keep", "copy", "files", "build", "directory", "destination", "source"],
     "author": "Shahid Ullah Khan",
     "license": "ISC",
     "bugs": {
