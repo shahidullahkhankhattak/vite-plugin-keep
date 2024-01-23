@@ -1,4 +1,6 @@
 # vite-plugin-keep
+![Build Status](https://github.com/shahidullahkhankhattak/vite-plugin-keep/actions/workflows/build.yml/badge.svg?branch=main)
+![Tests Status](https://github.com/shahidullahkhankhattak/vite-plugin-keep/actions/workflows/test.yml/badge.svg?branch=main&event=push)
 
 `vite-plugin-keep` is a Vite plugin that allows you to specify a source directory to be copied into your build directory upon successful build completion. This is particularly useful for including assets or other files that need to be part of the output but are not directly imported in your source code.
 
