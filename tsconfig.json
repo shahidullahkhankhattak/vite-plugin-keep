@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "ESNext",
+      "strict": true,
+      "moduleResolution": "Node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "baseUrl": ".",
+      "declaration": true,
+      "outDir": "dist",
+      "declarationDir": "dist/types",
+      "paths": {
+        "@/*": ["src/*"]
+      },
+      "lib": ["ESNext", "ScriptHost"]
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
